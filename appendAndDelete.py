@@ -1,0 +1,1 @@
+def appendAndDelete(s, t, k):
